@@ -1,0 +1,321 @@
+{
+  "data": [
+  {
+    "city": "北京",
+    "swiperList": [
+    {
+      "id": "1",
+      "imgUrl": "/api/img/swiper1.jpg"
+    },
+    {
+      "id": "2",
+      "imgUrl": "/api/img/swiper2.jpg"
+    },
+    {
+      "id": "3",
+      "imgUrl": "/api/img/swiper3.jpg"
+    }
+  ],
+    "iconsList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "title": "景点门票"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/f0f00d6dfe038c044dbc9a437f58b0eb.png",
+      "title": "一日行"
+    },
+    {
+      "id": "03",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/437aad2dd0c1edb38fee0c51f8f9dd02.png",
+      "title": "热门演出"
+    },
+    {
+      "id": "04",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/d0d101c23a73467de740ecf68602cd17.png",
+      "title": "壶口瀑布"
+    },
+    {
+      "id": "05",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "title": "一日游"
+    },
+    {
+      "id": "06",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+      "title": "动植物园"
+    },
+    {
+      "id": "07",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "title": "故宫"
+    },
+    {
+      "id": "08",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+      "title": "东方明珠"
+    },
+    {
+      "id": "09",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/9c76635f623759e3db287c4850fcb0a5.png",
+      "title": "长城"
+    },
+    {
+      "id": "10",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "title": "博物馆"
+    }],
+    "hotList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/1a/5582f9f24bc50b475a8cbda4c5ac8d24.water.jpg_250x250_c30b25dc.jpg",
+      "title": "故宫",
+      "mark": "108"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/b8/f5fd5955bdecc923ce6d40ce453160eb.water.jpg_250x250_de106da6.jpg",
+      "title": "陕西历史博物馆",
+      "mark": "30"
+    },
+    {
+      "id": "03",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/18/18ffcca94b1b7ca2.water.jpg_250x250_70d9c70e.jpg",
+      "title": "长恨歌",
+      "mark": "20"
+    },
+    {
+      "id": "04",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/67/272c374a876b2f9ec9860551c993c521.water.jpg_250x250_af5e53bc.jpg",
+      "title": "钟楼",
+      "mark": "20"
+    },
+    {
+      "id": "05",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/53/53cf6caed9f9b9ee90.img.jpg_250x250_96f4c5f8.jpg",
+      "title": "华清池",
+      "mark": "20"
+    },
+    {
+      "id": "06",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/db/dbd0bef45fbc36b3.img.jpg_250x250_b81371e3.jpg",
+      "title": "大唐芙蓉园",
+      "mark": "20"
+    },
+    {
+      "id": "07",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/84/f696c67a8052bb60e6fc51b0f9ba7388.water.jpg_250x250_98036577.jpg",
+      "title": "大明宫国家遗址公园",
+      "mark": "20"
+    },
+    {
+      "id": "08",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/89/66dadfb4d982e6f88abad45a3e062342.water.jpg_250x250_10214324.jpg",
+      "title": "海洋公园",
+      "mark": "20"
+    },
+    {
+      "id": "09",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/c5/a017645d82ab89f271fdfb1bd6ecc2e0.water.jpg_250x250_786e3a24.jpg",
+      "title": "野生动物园",
+      "mark": "20"
+    },
+    {
+      "id": "0",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1702/4e/4e10c6d12d98a1aa3.water.jpg_250x250_f657aa49.jpg",
+      "title": "骊山",
+      "mark": "20"
+    }],
+    "likeList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+      "title": "西安城墙1",
+      "msg": "13689条评论",
+      "pre": "180",
+      "map": "碑林区"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+      "title": "西安城墙2",
+      "msg": "13689条评论",
+      "pre": "180",
+      "map": "碑林区"
+    }],
+    "vacationList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+      "title": "西安必打卡",
+      "content": "寻长安梦，开启穿越的圆梦之旅"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+      "title": "西安必打卡",
+      "content": "寻长安梦，开启穿越的圆梦之旅"
+    }]
+  },
+{
+    "city": "上海",
+    "swiperList": [
+    {
+      "id": "1",
+      "imgUrl": "/api/img/swiper1.jpg"
+    },
+    {
+      "id": "2",
+      "imgUrl": "/api/img/swiper2.jpg"
+    },
+    {
+      "id": "3",
+      "imgUrl": "/api/img/swiper3.jpg"
+    }
+  ],
+    "iconsList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "title": "景点门票"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/f0f00d6dfe038c044dbc9a437f58b0eb.png",
+      "title": "一日行"
+    },
+    {
+      "id": "03",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/437aad2dd0c1edb38fee0c51f8f9dd02.png",
+      "title": "热门演出"
+    },
+    {
+      "id": "04",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/d0d101c23a73467de740ecf68602cd17.png",
+      "title": "壶口瀑布"
+    },
+    {
+      "id": "05",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "title": "一日游"
+    },
+    {
+      "id": "06",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+      "title": "动植物园"
+    },
+    {
+      "id": "07",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "title": "华清宫"
+    },
+    {
+      "id": "08",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+      "title": "兵马俑"
+    },
+    {
+      "id": "09",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/9c76635f623759e3db287c4850fcb0a5.png",
+      "title": "华山"
+    },
+    {
+      "id": "10",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "title": "博物馆"
+    }],
+    "hotList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/1a/5582f9f24bc50b475a8cbda4c5ac8d24.water.jpg_250x250_c30b25dc.jpg",
+      "title": "故宫",
+      "mark": "108"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/b8/f5fd5955bdecc923ce6d40ce453160eb.water.jpg_250x250_de106da6.jpg",
+      "title": "陕西历史博物馆",
+      "mark": "30"
+    },
+    {
+      "id": "03",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/18/18ffcca94b1b7ca2.water.jpg_250x250_70d9c70e.jpg",
+      "title": "长恨歌",
+      "mark": "20"
+    },
+    {
+      "id": "04",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/67/272c374a876b2f9ec9860551c993c521.water.jpg_250x250_af5e53bc.jpg",
+      "title": "钟楼",
+      "mark": "20"
+    },
+    {
+      "id": "05",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/53/53cf6caed9f9b9ee90.img.jpg_250x250_96f4c5f8.jpg",
+      "title": "华清池",
+      "mark": "20"
+    },
+    {
+      "id": "06",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/db/dbd0bef45fbc36b3.img.jpg_250x250_b81371e3.jpg",
+      "title": "大唐芙蓉园",
+      "mark": "20"
+    },
+    {
+      "id": "07",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/84/f696c67a8052bb60e6fc51b0f9ba7388.water.jpg_250x250_98036577.jpg",
+      "title": "大明宫国家遗址公园",
+      "mark": "20"
+    },
+    {
+      "id": "08",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/89/66dadfb4d982e6f88abad45a3e062342.water.jpg_250x250_10214324.jpg",
+      "title": "海洋公园",
+      "mark": "20"
+    },
+    {
+      "id": "09",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/c5/a017645d82ab89f271fdfb1bd6ecc2e0.water.jpg_250x250_786e3a24.jpg",
+      "title": "野生动物园",
+      "mark": "20"
+    },
+    {
+      "id": "0",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1702/4e/4e10c6d12d98a1aa3.water.jpg_250x250_f657aa49.jpg",
+      "title": "骊山",
+      "mark": "20"
+    }],
+    "likeList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+      "title": "西安城墙1",
+      "msg": "13689条评论",
+      "pre": "180",
+      "map": "碑林区"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+      "title": "西安城墙2",
+      "msg": "13689条评论",
+      "pre": "180",
+      "map": "碑林区"
+    }],
+    "vacationList": [
+    {
+      "id": "01",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+      "title": "西安必打卡",
+      "content": "寻长安梦，开启穿越的圆梦之旅"
+    },
+    {
+      "id": "02",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+      "title": "西安必打卡",
+      "content": "寻长安梦，开启穿越的圆梦之旅"
+    }]
+  }]
+}
